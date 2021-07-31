@@ -28,6 +28,7 @@ playQuiz("where do i work? " , "HP")
 playQuiz("where do i live? ", "MP")
 playQuiz("who is your best friend? ", "Anurag")
 playQuiz("which song do you like ? ", "yoyo")
+playQuiz("who motivates you? ", "prateek")
 playQuiz("MSD or anyone else? ", "MSD")
 
 console.log("your final score is "+ quizScore)
